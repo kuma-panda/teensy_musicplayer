@@ -1,0 +1,58 @@
+Izumi Bitmap Font Series
+                  Izumi Gothic 16dot Kanji font
+                                  for JIS X 0213:2004
+                 (IZMG16-N-2004, Rel. Bata-5.1)
+
+                                           By Yu=Izumi@Tohoku University, Japan
+                                            e-mail:yu_izumi@plum.freemail.ne.jp
+                                                                Date:2005/11/13
+
+
+Introduction
+ This font is "Izumi Gothic 16dot Kanji font for JIS X 0213:2004" Bata-5.1.
+ And Univers based ANK(JIS X 0201:1976) font.
+
+
+Files
+izmg16-2004-1.bdf         JIS X 0213:2004 plane-1 Font File(Font format: bdf)
+izmg16-2004-2.bdf         JIS X 0213:2004 plane-2 Font File(Font format: bdf)
+izumi-uv16.bdf            JIS X 0201:1976 1byte Univers Ank Font File(Font format: bdf)
+izmg16-2004.eng.txt       This Document(English/ascii-us)
+izmg16-2004.jpn.txt       Document(Japanese/JIS)
+
+
+Copyright
+ This font is Public Domain. Shere and enjoy.
+
+ In Japanese low, and sentence are thinking of Font's Preservation on 
+industrial possession. I think so, too.
+ Yes, All Izumi Fonts are "Public Domain" on completing. But, if part of one 
+isn't completing, I want changeless.
+ "I want changeless", it's not meaning disable. But I can't take the 
+responsibility of changes.
+
+
+Document Infomation
+2007/03/01(IZMG16-2004 Final Beta)
+ Update Kanji/Kana
+2005/11/13(IZMG16-2004 Beta-5.1)
+ Update Kanji/Kana.
+2005/10/15(IZMG16-2004 Beta-5)
+ Update Kanji/Kana/ANK.
+2004/09/15(IZMG16-N-2000/2004, Bata-3)
+ Update Kanji.
+ Divides in JIS2000 and JIS2004.
+2004/08/26(IZMG16-N-2004, Bata-2)
+ Update part of kana, kanji.
+2004/08/20(IZMG16-N-2004, Bata-1)
+ Make fullset of JIS X 0213:2004(Plane 1, 2).
+ And Convert from FONTX2 to bdf.
+2002/10/13
+ Wrote this document is accompanied by convert from FONTX2 to bdf.
+2003/10/13
+ Update Kanji Level 1/2.
+2003/12/13
+ Make Kanji Level 3.
+ Update Kanji Level 1/2 Kanji and Kana.
+
+ 
